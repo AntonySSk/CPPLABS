@@ -1,5 +1,5 @@
 #include "framework.h"
-#include "Lab3.tpp.h" // Згенерований заголовочний файл проєкту
+#include "Lab3.tpp.h"
 #include <cmath>
 #include "Resource.h"
 
